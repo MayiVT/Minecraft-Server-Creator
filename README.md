@@ -1,4 +1,4 @@
-# Minecraft Server Creator
+# Minecraft Server Creator (Working on new update, all code remaded + support for other platforms)
 A minecraft server launcher/creator to create a server easily
 
 # Supported servers
